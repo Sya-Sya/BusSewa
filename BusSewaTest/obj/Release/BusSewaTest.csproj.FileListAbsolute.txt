@@ -1,0 +1,13 @@
+D:\MyThing\.NET\BusSewa\BusSewaTest\bin\Release\BusSewaTest.exe.config
+D:\MyThing\.NET\BusSewa\BusSewaTest\bin\Release\BusSewaTest.exe
+D:\MyThing\.NET\BusSewa\BusSewaTest\bin\Release\BusSewaTest.pdb
+D:\MyThing\.NET\BusSewa\BusSewaTest\bin\Release\BusSewa.dll
+D:\MyThing\.NET\BusSewa\BusSewaTest\bin\Release\Newtonsoft.Json.dll
+D:\MyThing\.NET\BusSewa\BusSewaTest\bin\Release\BusSewa.pdb
+D:\MyThing\.NET\BusSewa\BusSewaTest\bin\Release\Newtonsoft.Json.xml
+D:\MyThing\.NET\BusSewa\BusSewaTest\obj\Release\BusSewaTest.csproj.AssemblyReference.cache
+D:\MyThing\.NET\BusSewa\BusSewaTest\obj\Release\BusSewaTest.csproj.SuggestedBindingRedirects.cache
+D:\MyThing\.NET\BusSewa\BusSewaTest\obj\Release\BusSewaTest.csproj.CoreCompileInputs.cache
+D:\MyThing\.NET\BusSewa\BusSewaTest\obj\Release\BusSewaTest.csproj.CopyComplete
+D:\MyThing\.NET\BusSewa\BusSewaTest\obj\Release\BusSewaTest.exe
+D:\MyThing\.NET\BusSewa\BusSewaTest\obj\Release\BusSewaTest.pdb

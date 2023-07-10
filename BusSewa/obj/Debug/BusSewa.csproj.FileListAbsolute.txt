@@ -1,0 +1,17 @@
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\BusSewa.dll
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\BusSewa.pdb
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\Newtonsoft.Json.dll
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Security.AccessControl.dll
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Security.Permissions.dll
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Security.Principal.Windows.dll
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\Newtonsoft.Json.xml
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Security.AccessControl.xml
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Security.Permissions.xml
+D:\MyThing\.NET\BusSewa\BusSewa\bin\Debug\System.Security.Principal.Windows.xml
+D:\MyThing\.NET\BusSewa\BusSewa\obj\Debug\BusSewa.csproj.AssemblyReference.cache
+D:\MyThing\.NET\BusSewa\BusSewa\obj\Debug\BusSewa.csproj.CoreCompileInputs.cache
+D:\MyThing\.NET\BusSewa\BusSewa\obj\Debug\BusSewa.csproj.CopyComplete
+D:\MyThing\.NET\BusSewa\BusSewa\obj\Debug\BusSewa.dll
+D:\MyThing\.NET\BusSewa\BusSewa\obj\Debug\BusSewa.pdb
